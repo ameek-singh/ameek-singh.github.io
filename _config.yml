@@ -1,4 +1,4 @@
-_baseurl: '/nucleus/'
+baseurl: '/nucleus/'
 permalink: pretty
 title: 'Jekyll Serif'
 
